@@ -7,3 +7,4 @@ librosa
 scikit-learn
 matplotlib
 joblib
+gunicorn
